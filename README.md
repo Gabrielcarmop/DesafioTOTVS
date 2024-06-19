@@ -25,35 +25,6 @@ Este projeto é uma aplicação Java Spring Boot com frontend em React para gere
 - Semantic UI React (para componentes visuais)
 - Formik e Yup (para formulários e validações)
 
-## Estrutura do Projeto
-
-|-- backend
-|   |-- src
-|   |   |-- main
-|   |   |   |-- java
-|   |   |   |   |-- configuration   # Arquivos de cofiguração
-|   |   |   |   |-- controller      # Controller
-|   |   |   |   |-- exception       # Exceptions 
-|   |   |   |   |-- mapper          # Mapeamnento de entidades e DTOs
-|   |   |   |   |-- model           # Entidades
-|   |   |   |   |-- repository      # Repository
-|   |   |   |   |-- service         # Service
-|   |   |-- ...
-|   `-- pom.xml
-|
-|-- frontend
-|   |-- public
-|   |-- src
-|   |   |-- components    # Componentes React
-|   |   |-- services      # Serviços para comunicação com backend
-|   |   |-- App.js        # Componente principal do React
-|   |   |-- index.js      # Ponto de entrada do React
-|   |   |-- ...
-|   |-- package.json      # Configurações e dependências do npm
-
-|
-|-- README.md             # README principal do projeto
-
 ## Pré-requisitos
 
 ### Backend

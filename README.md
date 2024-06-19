@@ -42,7 +42,7 @@ Este projeto é uma aplicação Java Spring Boot com frontend em React para gere
 
 ### Backend
 
-1. Importe o projeto na sua IDE.
+1. Importe a pasta desafio na sua IDE.
 
 2. Execute a aplicação a partir da classe DesafioApplication.java ou utilizando Maven:
    
@@ -51,17 +51,18 @@ Este projeto é uma aplicação Java Spring Boot com frontend em React para gere
 3. http://localhost:8080/api/clientes
 
 ### Frontend
+1. Importe a pasta desafio-app na sua IDE.
 
-1. Instale as dependências do projeto:
+2. Instale as dependências do projeto:
 
     cd frontend
     npm install
 
-2. Inicie o servidor de desenvolvimento:
+3. Inicie o servidor de desenvolvimento:
 
     npm start
 
-3. Acesse o frontend através do navegador:
+4. Acesse o frontend através do navegador:
     
     http://localhost:3000
     
